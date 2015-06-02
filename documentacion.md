@@ -38,8 +38,6 @@
 
 # Objetivos
 
-
-
 * Aprender a desarrollar aplicaciones para Android usando Java y el entorno Visual Studio.
 * Aprender a usar el entorno de desarrollo para programar y depurar los programas realizados.
 * Conocer los controles visuales de la plataforma.
